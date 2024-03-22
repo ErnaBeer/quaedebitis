@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "quaedebitis",
+  "description": "A simple js wrapper for the Openstack APIs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErnaBeer/quaedebitis.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErnaBeer/quaedebitis.git"
+  },
+  "dependencies": {
+    "request": "~2"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.9"
+  },
+  "main": "./index.js",
+  "author": "CordieWill"
+}
